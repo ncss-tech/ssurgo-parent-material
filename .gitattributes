@@ -1,6 +1,10 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
+# don't convert line endings in these files
+.sh text eol=lf
+.sql text eol=lf
+
 # Custom for Visual Studio
 *.cs     diff=csharp
 
