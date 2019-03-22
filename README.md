@@ -9,3 +9,19 @@ Two very useful soil properties contained in the component/map unit data structu
 ## Problem
 There are several categories of problems with the parent material data in the soil survey database. These include naming conventions, data complexity, and differences in scale of application for the same data. These problems result in two challenges. One is the difficulty of using the data to elucidate relationships between the soils and these properties across the landscape. The other challenge is the visual confusion created by different, but conceptually duplicative, categories. Both challenge our ability to understand environmental processes across landscapes.
 We would like to have the flexibility of scaling the complexity up or down, depending on the analysis chosen. But we want to be reasonably sure that the base level of complexity represents both real and useful differences. We also want to retain historical knowledge that captures real differences across the landscape.
+
+[Further background, PPTX](https://ncss-tech.github.io/ssurgo-parent-material/project-planning/pm-ideas.pptx)
+
+
+## Correlation of Parent Material Origin
+
+![](https://ncss-tech.github.io/ssurgo-parent-material/national-stats/summaries/pmorigin-top-30-proportion.png)
+
+![](https://ncss-tech.github.io/ssurgo-parent-material/pmorigin-correlation/coarse-groupings.png)
+   * [high-res SVG](https://ncss-tech.github.io/ssurgo-parent-material/pmorigin-correlation/coarse-groupings.svg)
+   * [interactive viz](https://ncss-tech.github.io/ssurgo-parent-material/pmorigin-correlation/correlation-viz.html)
+   
+
+## Correlation of Parent Material Kind
+
+![](https://ncss-tech.github.io/ssurgo-parent-material/national-stats/summaries/pmkind-top-30-proportion.png)
